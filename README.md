@@ -1,0 +1,1 @@
+Script for getting the Id of the last post from a public channel
